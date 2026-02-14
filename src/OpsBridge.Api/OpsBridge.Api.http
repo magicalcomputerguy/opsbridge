@@ -1,0 +1,6 @@
+@OpsBridge.Api_HostAddress = http://localhost:5090
+
+GET {{OpsBridge.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
